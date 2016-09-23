@@ -1,0 +1,13 @@
+{
+    "name": "magento/magento2-sample-data",
+    "description": "Clone of sample data with composer file",
+    "version": "2.1.0",
+    "license": "OSL-3.0, AFL-3.0",
+    "authors": [
+        {
+            "name": "Bentrup, Keith",
+            "email": "kbentrup@magento.com"
+        }
+    ],
+    "require": {}
+}
