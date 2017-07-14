@@ -14,6 +14,14 @@
             <module name="Magento_Catalog"/>
             <module name="Magento_CatalogSearch"/>
             <module name="Magento_SampleData"/>
+            <module name="Smile_ElasticsuiteCore"/>
+            <module name="Smile_ElasticsuiteCatalog"/>
+            <module name="Smile_ElasticsuiteCatalogOptimizer"/>
+            <module name="Smile_ElasticsuiteCatalogRule"/>
+            <module name="Smile_ElasticsuiteSwatches"/>
+            <module name="Smile_ElasticsuiteThesaurus"/>
+            <module name="Smile_ElasticsuiteTracker"/>
+            <module name="Smile_ElasticsuiteVirtualCategory"/>
         </sequence>
     </module>
 </config>
