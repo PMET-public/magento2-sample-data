@@ -1,5 +1,5 @@
 {
-  "name": "magento/magento2-sample-data-ee",
+  "name": "magento/magento2-sample-data",
   "description": "Clone of sample data with composer file",
   "license": "OSL-3.0, AFL-3.0",
   "authors": [
